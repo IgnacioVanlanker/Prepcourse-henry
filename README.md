@@ -1,2 +1,1 @@
-# Prepcourse-henry
-Un repositorio de prueba
+prueba de como clonar un repositorio desde github hacia mi computadora
